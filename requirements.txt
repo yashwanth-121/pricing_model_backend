@@ -17,4 +17,3 @@ sklearn.ensemble
 sklearn.preprocessing
 sklearn.metrics
 warnings
-warnings.filterwarnings('ignore')
